@@ -29,6 +29,7 @@ body{
 	top: 55%;
 	border-bottom-right-radius: 10%;
 	border-top-left-radius: 15%;
+	box-shadow: 4px 7px #454242;
 }
 .left{
 	background-color: #c4a067;
